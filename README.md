@@ -1,1 +1,1 @@
-# EmployeeDatabaseconnectivityTKinterPython
+# DatabaseconnectivityTKinterPython
